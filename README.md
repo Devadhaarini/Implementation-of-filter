@@ -111,15 +111,19 @@ plt.show()
 ### 1. Smoothing Filters
 
 i) Using Averaging Filter
+
 ![image](https://github.com/user-attachments/assets/feed8da4-9745-43cd-bfa5-b05b803beb9f)
 
 ii)Using Weighted Averaging Filter
+
 ![image](https://github.com/user-attachments/assets/5250b683-954b-4bcf-a382-0567d4581828)
 
 iii)Using Gaussian Filter
+
 ![image](https://github.com/user-attachments/assets/3e3012e0-212b-46c7-b4b9-b9c829d7baa5)
 
 iv) Using Median Filter
+
 ![image](https://github.com/user-attachments/assets/2a13d8f7-6fbf-4180-9ef8-6eb051f85d9e)
 
 
@@ -127,9 +131,11 @@ iv) Using Median Filter
 </br>
 
 i) Using Laplacian Kernal
+
 ![image](https://github.com/user-attachments/assets/7de0cf8a-5ed8-469b-88c2-2f324e9e6bf9)
 
 ii) Using Laplacian Operator
+
 ![image](https://github.com/user-attachments/assets/adb79b92-6cd7-46ee-991f-3796397e5e49)
 
 ## Result:
